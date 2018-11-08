@@ -12,6 +12,15 @@ namespace Simple_Class_Schedule
     /// </summary>
     class ClassBase
     {
+        public string Name { get; set; }
+        public string Teacher { get; set; }
+        public string Classroom { get; set; }
 
+        public ClassBase()
+        {
+            Name = "N/A";
+            Teacher = "N/A";
+            Classroom = "N/A";
+        }
     }
 }
