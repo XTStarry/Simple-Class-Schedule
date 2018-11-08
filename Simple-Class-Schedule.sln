@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-Class-Schedule", "Simple-Class-Schedule\Simple-Class-Schedule.csproj", "{44F0F2DA-BF03-46B1-BA32-F5AC8758D514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F0F2DA-BF03-46B1-BA32-F5AC8758D514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F0F2DA-BF03-46B1-BA32-F5AC8758D514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F0F2DA-BF03-46B1-BA32-F5AC8758D514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F0F2DA-BF03-46B1-BA32-F5AC8758D514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF25BF1-D4D8-4402-B9FB-9222BF6080A4}
+	EndGlobalSection
+EndGlobal
